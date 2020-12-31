@@ -1,0 +1,13 @@
+{
+  "name": "typescript_start",
+  "version": "1.0.0",
+  "description": "Learning Typescript by making a Blockchain with it.",
+  "main": "index.js",
+  "repository": "https://github.com/taulmax/typescript_start.git",
+  "author": "서준혁 <taulmax@onpia.co.kr>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
